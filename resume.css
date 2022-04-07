@@ -1,0 +1,23 @@
+
+
+.left{
+    height:1000px;
+ 
+    background-color:#000000;
+    color: rgb(255, 255, 255);
+
+}
+.right{
+    height:1000px;
+    
+    background-color: rgb(221, 216, 216);
+    color:rgb(0, 0, 0); ;
+}
+
+h1,h2,h3,h4,p{
+    font-family: 'Roboto', sans-serif;
+}
+.year{
+float: right;
+}
+
